@@ -1,5 +1,5 @@
 # Blind-75
-Hello, freshers!
+Hello, freshers and DSA aspirants!
 
 Do you feel overwhelmed by lots of DSA problems and find it difficult to touch on advanced topics while circling around the basic DSA questions?
 
