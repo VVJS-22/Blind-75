@@ -1,19 +1,19 @@
 # Blind-75
-Hello freshers!
+Hello, freshers!
 
-Do you overwhelm with lots of DSA problems and could not touch the advanced topics by circling in the basic DSA questions?
+Do you feel overwhelmed by lots of DSA problems and find it difficult to touch on advanced topics while circling around the basic DSA questions?
 
-Don’t worry, I will teach you a magic spell - The BLIND 75.
+Don’t worry; I will teach you a magic spell - The BLIND 75.
 
-Blind 75 is a list of 75 problems which covers almost all the inportant Datastructures and Algorithms.
+Blind 75 is a list of 75 problems that covers almost all the important data structures and algorithms.
 
-Blind 75 is well known among Software Engineers because of its comprehensive coverage, efficiency, simplicity yet powerful.
+Blind 75 is well known among software engineers because of its comprehensive coverage, efficiency, simplicity, and yet power.
 
-These are like Maths formulae. You have to understand the concepts behind them instead of memorising.
+These are like math formulae. You have to understand the concepts behind them instead of memorizing them.
 
 All the best for your preparation!
 
-#### Here’s the Blind 75 list
+Here’s the Blind 75 list:
 
 ### Arrays (10 problems)
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
